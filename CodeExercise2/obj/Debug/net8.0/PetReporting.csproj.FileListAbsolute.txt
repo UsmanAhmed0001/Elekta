@@ -180,3 +180,4 @@
 /Users/usmanahmed/Downloads/CodeExercise2/CodeExercise2/obj/Debug/net8.0/PetReporting.pdb
 /Users/usmanahmed/Downloads/CodeExercise2/CodeExercise2/obj/Debug/net8.0/PetReporting.genruntimeconfig.cache
 /Users/usmanahmed/Downloads/CodeExercise2/CodeExercise2/obj/Debug/net8.0/ref/PetReporting.dll
+/Users/usmanahmed/Downloads/CodeExercise2/CodeExercise2/obj/Debug/net8.0/PetReporting.sourcelink.json
